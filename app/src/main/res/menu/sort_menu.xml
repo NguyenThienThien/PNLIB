@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Giá Tăng Dần"
+        android:id="@+id/item_tangdan"/>
+
+    <item android:title="Giá Giảm Dần"
+        android:id="@+id/item_giamdan"/>
+
+    <item android:title="Sắp sếp theo tên"
+        android:id="@+id/item_ten"/>
+</menu>
